@@ -2,7 +2,7 @@
 
 📌 Descripción del proyecto
 
-Este proyecto analiza los datos de ventas de BMW durante los últimos 15 años, enfocándose en características de cada vehículo vendido alrededor del mundo.
+Se analizaron los datos de ventas de BMW durante los últimos 15 años, enfocándose en características de cada vehículo vendido alrededor del mundo.
 El objetivo principal es identificar tendencias, patrones e insights que puedan ayudar a la marca a tomar mejores decisiones estratégicas.
 
 🏢 Contexto de negocio
