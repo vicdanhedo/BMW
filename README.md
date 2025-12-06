@@ -28,13 +28,14 @@ Gráficos estadísticos, análisis comparativos y visualización por regiones y 
 
 Interpretación de resultados para generar conclusiones y oportunidades de mejora para el negocio.
 
-🛠️ Tecnologías utilizadas
-Tecnología	Uso
-Python	Lenguaje principal
-Pandas	Manejo y transformación de datos
-NumPy	Cálculo numérico
-Seaborn	Visualización estadística
-Matplotlib	Gráficos personalizados
+| Tecnología     | Uso                              |
+| -------------- | -------------------------------- |
+| **Python**     | Lenguaje principal               |
+| **Pandas**     | Manejo y transformación de datos |
+| **NumPy**      | Cálculo numérico                 |
+| **Seaborn**    | Visualización estadística        |
+| **Matplotlib** | Gráficos personalizados          |
+| **PowerBI**    | Gráficos complementarios         |
 
 ![bmw pdf_page-0001](https://github.com/user-attachments/assets/f7840c6a-74c5-4926-8ccf-49713574ebf1)
 
